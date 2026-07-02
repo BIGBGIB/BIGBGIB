@@ -1,3 +1,10 @@
+<p align="center">
+<img src="assets/cyber.jpg"  height="350em" width="100%" >
+</p>
+
+
+
+
 # 💫 About Me: Aspiring Full-Stack Developer
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Medium%20Skin%20Tone.png" alt="Hand with Fingers Splayed Medium Skin Tone" width="25" height="25" />Hello! My name is Gabrielle H. A. Guimarães and I am an Aspiring Full-Stack Developer and Technologist in Cybersecurity and Cyber Defense Management.<br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Police%20Officer%20Medium%20Skin%20Tone.png" alt="Police Officer Medium Skin Tone" width="25" height="25" />My current goal is to become a Cybercrime Investigator.<br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" />Currently my main stack is JAVA.<br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" alt="Shield" width="25" height="25" />I'm looking to develop technology that helps law enforcement agencies prevent and investigate cybercrime<br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" />I'm currently enrolled in the Generation Brasil Full-Stack Developer Bootcamp.
